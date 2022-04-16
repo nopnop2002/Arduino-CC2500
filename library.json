@@ -1,0 +1,19 @@
+{
+"name": "Arduino-CC2500",
+"frameworks": "Arduino",
+"keywords": "CC2500",
+"description": "Driver for CC2500 Low-Cost Low-Power 2.4 GHz RF Transceiver",
+"authors":
+[
+    {
+        "name": "nopnop2002",
+        "url": "",
+        "maintainer": true
+    },
+],
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/nopnop2002/Arduino-CC2500"
+}
+}
