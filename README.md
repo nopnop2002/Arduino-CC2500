@@ -24,6 +24,7 @@ I made it with reference to [this](https://github.com/Zohan/ArduinoCC2500Demo).
 
 
 # Wireing
+
 |CC2500||UNO|MEGA|ESP8266|
 |:-:|:-:|:-:|:-:|:-:|
 |GND|--|GND|GND|GND|
