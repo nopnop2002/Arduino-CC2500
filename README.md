@@ -45,5 +45,14 @@ You need level shift from 5V to 3.3V.
 I used [this](https://www.ti.com/lit/ds/symlink/txs0108e.pdf?ts=1647593549503) for a level shift.   
 
 
+# Communication with another library   
+Basically, communication between applications with different register values is not guaranteed.   
+These settings may differ.   
+- Base frequency and channel spacing frequency
+- Packet format configuration
+- Manchester encoding configuration
+- Wireless modulation method
+- The data rate used when transmitting
+- The data rate expected in receive
 
 
