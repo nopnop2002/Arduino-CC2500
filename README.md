@@ -4,6 +4,7 @@ Arduino library for TEXAS INSTRUMENTS CC2500.
 I made it with reference to [this](https://github.com/Zohan/ArduinoCC2500Demo).   
 
 - 2.00mm pitch External Antena   
+	This module uses an external antenna for 2.4GHz.   
 	![CC2500-2mm-EXT-Antena-2](https://user-images.githubusercontent.com/6020549/167327153-d0f6a162-9d2f-448d-b1e2-a591432f435e.JPG)
 	Pin out is [here](https://www.rflink.nl/wires.php).   
 
