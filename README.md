@@ -3,8 +3,18 @@ Arduino library for TEXAS INSTRUMENTS CC2500.
 
 I made it with reference to [this](https://github.com/Zohan/ArduinoCC2500Demo).   
 
-![CC2500-2400MHz-2](https://user-images.githubusercontent.com/6020549/163664994-4b84de76-78fe-46d0-9658-93f8b3c04b19.JPG)
+- 2.00mm pitch External Antena   
+	![CC2500-2mm-EXT-Antena-2](https://user-images.githubusercontent.com/6020549/167327153-d0f6a162-9d2f-448d-b1e2-a591432f435e.JPG)
+	Pin out is [here](https://www.rflink.nl/wires.php).   
 
+- 1.27mm pitch PCB Antena   
+	![CC2500-1 27mm-PCB-Antena](https://user-images.githubusercontent.com/6020549/167327177-b06ff78e-08a6-4599-907d-366c79189f1d.JPG)
+	Pin out is [here](https://www.rflink.nl/wires.php).   
+
+- Pitch conversion PCB   
+	I use this.   
+	You can convert from 1.27mm to 2.54mm or from 2mm to 2.54mm.   
+	![Image](https://github.com/user-attachments/assets/4ba83e53-072f-4668-b484-0d88523d8e54)
 
 # Changes from the original
 
